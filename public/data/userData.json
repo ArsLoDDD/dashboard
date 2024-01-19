@@ -5,11 +5,12 @@
 		"email": "Yadira_Crona@gmail.com",
 		"phone": "(493) 034-4153",
 		"country": "Mozambique",
+		"company": "Amazon",
 		"status": true
 	},
 	{
 		"userId": "c08d5871-2446-435a-900d-c49bfc224a2f",
-		"username": "Rosalinda Runolfsdottir",
+		"username": "Rosalinda Runolf",
 		"email": "Aileen95@hotmail.com",
 		"company": "Amazon",
 		"phone": "(903) 127-0213",
@@ -40,6 +41,7 @@
 		"email": "Victor_Hilpert87@hotmail.com",
 		"phone": "(343) 248-8185",
 		"country": "Israel",
+		"company": "Google",
 		"status": false
 	},
 	{
@@ -48,7 +50,7 @@
 		"email": "Samanta92@hotmail.com",
 		"company": "Microsoft",
 		"phone": "(666) 847-7700",
-		"country": "Brunei Darussalam",
+		"country": "USA",
 		"status": true
 	},
 	{
@@ -57,16 +59,16 @@
 		"email": "Eliza63@hotmail.com",
 		"company": "Apple",
 		"phone": "(708) 359-6436",
-		"country": "Guinea-Bissau",
+		"country": "USA",
 		"status": false
 	},
 	{
 		"userId": "b3577755-149b-4907-961a-7c3477a73b5a",
-		"username": "Assunta McLaughlin-Goyette",
+		"username": "Assunta McLaughlin",
 		"email": "Gus_Murray@hotmail.com",
 		"company": "Google",
 		"phone": "(395) 642-5261",
-		"country": "United Kingdom",
+		"country": "Ukraine",
 		"status": false
 	},
 	{
@@ -84,7 +86,7 @@
 		"email": "Tara_Roob63@yahoo.com",
 		"company": "Microsoft",
 		"phone": "(341) 338-2093",
-		"country": "Equatorial Guinea",
+		"country": "USA",
 		"status": true
 	},
 	{
@@ -120,7 +122,7 @@
 		"email": "Hassie1@hotmail.com",
 		"company": "Apple",
 		"phone": "(379) 467-0734",
-		"country": "Saint Barthelemy",
+		"country": "USA",
 		"status": true
 	},
 	{
@@ -138,6 +140,7 @@
 		"email": "Dangelo19@yahoo.com",
 		"phone": "(764) 721-0090",
 		"country": "Pakistan",
+		"company": "Google",
 		"status": true
 	},
 	{
@@ -155,7 +158,7 @@
 		"email": "Eula9@gmail.com",
 		"company": "Amazon",
 		"phone": "(396) 865-0311",
-		"country": "Trinidad and Tobago",
+		"country": "Philippines",
 		"status": true
 	},
 	{
@@ -173,7 +176,7 @@
 		"email": "Elinor.McKenzie@yahoo.com",
 		"company": "Apple",
 		"phone": "(747) 576-3712",
-		"country": "Lao People's Democratic Republic",
+		"country": "USA",
 		"status": true
 	},
 	{
@@ -191,6 +194,7 @@
 		"email": "Vivien_Sawayn72@yahoo.com",
 		"phone": "(020) 554-5057",
 		"country": "Cape Verde",
+		"company": "Google",
 		"status": false
 	},
 	{
@@ -216,7 +220,8 @@
 		"username": "Elton Murray",
 		"email": "Aliya_Windler@yahoo.com",
 		"phone": "(332) 482-4437",
-		"country": "United States of America",
+		"country": "Ukraine",
+		"company": "Google",
 		"status": false
 	},
 	{
@@ -261,7 +266,7 @@
 		"email": "Lyda.VonRueden61@gmail.com",
 		"company": "Facebook",
 		"phone": "(605) 463-9619",
-		"country": "South Georgia and the South Sandwich Islands",
+		"country": "Ukraine",
 		"status": false
 	},
 	{
@@ -288,6 +293,7 @@
 		"email": "Corine.Goldner76@gmail.com",
 		"phone": "(758) 350-9670",
 		"country": "Angola",
+		"company": "Google",
 		"status": false
 	},
 	{

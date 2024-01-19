@@ -14,6 +14,12 @@ module.exports = {
 				'gray-bg': '',
 				'gray-bg-item': '',
 				'purple-bg-item-menu': '#5932EA',
+				'green-status': '#00B087',
+				'green-status-bg': '#16C09861',
+				'red-status': '#DF0404',
+				'red-status-bg': '#FFC5C5',
+				'btn-gray': '#F5F5F5',
+				'btn-gray-border': '#EEEEEE',
 			},
 			fontFamily: {
 				poppins: ['Poppins', 'sans'],
