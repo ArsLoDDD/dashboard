@@ -1,9 +1,10 @@
 import React from 'react'
+import ComingSoon from '../components/ComingSoon/ComingSoon'
 
 const IncomePage = () => {
 	return (
-		<div>
-			<h1>Income</h1>
+		<div className='w-full h-full relative flex justify-center items-center'>
+			<ComingSoon />
 		</div>
 	)
 }

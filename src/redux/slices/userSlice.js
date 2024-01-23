@@ -13,7 +13,7 @@ const fetchUser = createAsyncThunk('user/fetchUser', async () => {
 			const { data } = await axios.get('https://randomuser.me/api/')
 			const userInfo = {
 				userName: `${data.results[0].name.first} ${data.results[0].name.last}`,
-				avatar: data.results[0].picture.thumbnail,
+				avatar: data.results[0].picture,
 				role: 'Product Manager',
 			}
 			return userInfo

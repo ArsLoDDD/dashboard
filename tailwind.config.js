@@ -20,6 +20,7 @@ module.exports = {
 				'red-status-bg': '#FFC5C5',
 				'btn-gray': '#F5F5F5',
 				'btn-gray-border': '#EEEEEE',
+				'main-bg': '#fafbff',
 			},
 			fontFamily: {
 				poppins: ['Poppins', 'sans'],

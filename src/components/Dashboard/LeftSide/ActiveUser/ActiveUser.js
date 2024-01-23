@@ -19,7 +19,7 @@ const ActiveUser = () => {
 			>
 				{({ isActive }) => (
 					<>
-						<Avatar url={userInfo.avatar} />
+						<Avatar url={userInfo.avatar?.thumbnail} />
 						<div
 							className={`flex flex-col font-poppins gap-0.5 ${
 								isActive

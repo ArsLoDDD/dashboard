@@ -6,6 +6,7 @@ import CustomersPage from './pages/CustomersPage'
 import IncomePage from './pages/IncomePage'
 import PromotePage from './pages/PromotePage'
 import HelpPage from './pages/HelpPage'
+import ProfilePage from './pages/ProfilePage'
 
 const AppRoutes = () => {
 	return (
@@ -16,6 +17,8 @@ const AppRoutes = () => {
 			<Route path='/income' element={<IncomePage />} />
 			<Route path='/promote' element={<PromotePage />} />
 			<Route path='/help' element={<HelpPage />} />
+
+			<Route path='/profile' element={<ProfilePage />} />
 
 			<Route path='*' element={<h1>error</h1>} />
 		</Routes>

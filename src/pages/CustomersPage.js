@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import CustomersTable from '../components/Tables/CustomersTable/CustomersTable'
+import CustomersTable from '../components/PageContent/Tables/CustomersTable/CustomersTable'
 import { useDispatch, useSelector } from 'react-redux'
 import { fetchCustomers } from '../redux/slices/customersSlice'
 import Pagination from '../components/Pagination/Pagination'
